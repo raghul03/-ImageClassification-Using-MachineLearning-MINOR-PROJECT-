@@ -1,2 +1,2 @@
-# -ImageClassification-Using-MachineLearning-MINOR-PROJECT-
+SMARTKNOWER-ML
 MINOR PROJECT
